@@ -1,0 +1,127 @@
+.section1{
+    display: flex;
+    margin-bottom: 50px;
+  }
+  .section2{
+    display: flex;
+    background-image: url(/images/shapes/7.png);
+    }
+    .section3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 200px;
+        padding-right: 200px;
+
+    }
+    .section4{
+        
+        /* margin-top: 100px; */
+        padding: 200px;
+        
+        
+        
+    }
+    .section-mdiv{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 50px;
+        box-shadow:2px 5px 15px -3px #888888;
+        border-radius: 30px;
+    }
+    .section4 div{
+        margin-right: 200px;
+    }
+    .section4-div h1{
+        margin-bottom:0;
+        font-size: 50px;
+    }
+    .section4-div p{
+        margin:0;
+    }
+
+    .section3 h1 {
+        margin: 0;
+    }
+    .section3 p {
+        margin: 0;
+    }
+
+    .div-padding{
+        padding: 40px;
+        margin-right: 50px;
+        box-shadow: 2px 5px 15px -3px #888888;
+        display: block;
+        border-radius: 30px;
+        
+    }
+    .section3-header{
+        text-align: center;
+    }
+    .section3-header h1{
+        margin: 0 !important;
+
+    }
+    .section3-header p{
+        margin-bottom: 30px !important;
+        font-size: 20px;
+
+    }
+
+body{
+    font-family: 'PT Serif', serif;
+}
+h1{
+    font-size: 70px;
+}
+.section1-div1{
+    width: 100;
+}
+
+.Order-Now{
+    background-image: linear-gradient(rgb(87, 87, 231), rgb(52, 173, 221));
+    text-decoration: none;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+}
+.about-me{
+    background-image: linear-gradient(rgb(87, 87, 231), rgb(52, 173, 221));
+    text-decoration: none;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+}
+
+.section1-div2{
+    width: 50%;
+}
+.section1-div2-img{
+    width: 100%;
+}
+.section2-div1-img{
+    width: 50%;
+    border-radius: 30px;
+}
+.section3 img {
+    width: 100%;
+    border-radius: 30px;
+}
+.span1{
+    color: yellowgreen;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+   
+}
+footer h1{
+    font-size: 50px;
+}
+.owner{
+    color: tomato;
+}
